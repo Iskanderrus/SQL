@@ -1,3 +1,3 @@
-Data Control Language Commands..
+Data Control Language Commands:
  - GRANT 
  - REVOKE
